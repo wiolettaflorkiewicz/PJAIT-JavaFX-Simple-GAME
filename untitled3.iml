@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="javafx-fxml">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/singa-javafx-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-controls-11.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-controls-11-win.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-graphics-11.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-graphics-11-win.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-base-11.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javafx-base-11-win.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-chemistry-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-features-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/indriya-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/unit-api-1.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/uom-lib-common-1.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-mathematics-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-core-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/beam-core-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/beam-func-1.2.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-sequence-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/singa-structure-0.7.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/mmtf-codec-1.0.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/mmtf-serialization-1.0.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-dataformat-msgpack-0.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/msgpack-core-0.7.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-databind-2.6.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-annotations-2.6.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jackson-core-2.6.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/commons-lang-2.4.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/log4j-api-2.6.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/mmtf-api-1.0.8.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/jfreesvg-3.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="javafx-sdk-19.0" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>
